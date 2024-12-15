@@ -1,1 +1,6 @@
 .DS_Store
+/node_modules
+/gmail-api-credentials/credentials.json
+/gmail-api-credentials/token.json
+/gmail-api-credentials/lastHistoryId.txt
+.env
